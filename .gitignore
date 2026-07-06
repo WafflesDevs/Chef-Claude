@@ -5,3 +5,10 @@ dist
 *.log
 cache
 api
+.env.local
+.env.*.local
+npm-debug.log*
+.vscode
+.idea
+coverage
+.vite
