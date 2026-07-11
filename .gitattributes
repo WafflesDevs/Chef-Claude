@@ -1,0 +1,4 @@
+venv/* linguist-vendored
+   __pycache__/* linguist-vendored
+   *.min.js linguist-generated
+   package-lock.json linguist-generated
