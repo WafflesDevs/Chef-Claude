@@ -28,12 +28,12 @@
 
 **Get an AI-generated recipe**
 
-<img src="./screenshots/recipe-result.png" alt="Chef Claude recipe result screen" width="700"/>
-<img src="https://i.postimg.cc/Y9Z3mdxd/Screenshot-2026-07-07-at-10-36-04-PM.png" alt="Chef Claude ingredient input screen" width="700"/>
 
-**Get an AI-generated recipe**
+<img src="https://i.postimg.cc/MTTmZKrf/Screenshot-2026-07-11-at-1-56-23-AM.png" alt="Chef Claude ingredient input screen" width="700"/>
 
-<img src="https://i.postimg.cc/8JGfmfc1/Screenshot-2026-07-07-at-10-37-06-PM.png" alt="Chef Claude recipe result screen" width="700"/>
+**Landing Page**
+
+<img src="https://i.postimg.cc/054cQDvM/Screenshot-2026-07-11-at-1-55-12-AM.png" alt="Chef Claude recipe result screen" width="700"/>
 
 </div>
 
