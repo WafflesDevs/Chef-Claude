@@ -2,7 +2,7 @@ import React from "react"
 import IngredientsList from "./IngredientsList"
 import ClaudeRecipe from "./ClaudeRecipe"
 import { getRecipeFromChefClaude } from "../ai"
-import Generate from "/Users/wafflez/Chef Claude/frontend/pages/Generate.jsx"
+import Generate from "./Generate.jsx"
 
 export default function Main() {
     const [ingredients, setIngredients] = React.useState([])
@@ -30,7 +30,6 @@ export default function Main() {
             <Generate
             action={addIngredient}
             />
-           
 
             {ingredients.length > 0 &&
                 <IngredientsList

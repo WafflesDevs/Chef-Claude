@@ -7,16 +7,13 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<<<<<<< HEAD
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-=======
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
->>>>>>> 0f0b39a7e60839b3706a03ee5cbe5b8625a22358
 </div>
 
 ---
@@ -27,19 +24,16 @@
 
 **Add your ingredients**
 
-<<<<<<< HEAD
 <img src="./screenshots/ingredient-input.png" alt="Chef Claude ingredient input screen" width="700"/>
 
 **Get an AI-generated recipe**
 
 <img src="./screenshots/recipe-result.png" alt="Chef Claude recipe result screen" width="700"/>
-=======
 <img src="https://i.postimg.cc/Y9Z3mdxd/Screenshot-2026-07-07-at-10-36-04-PM.png" alt="Chef Claude ingredient input screen" width="700"/>
 
 **Get an AI-generated recipe**
 
 <img src="https://i.postimg.cc/8JGfmfc1/Screenshot-2026-07-07-at-10-37-06-PM.png" alt="Chef Claude recipe result screen" width="700"/>
->>>>>>> 0f0b39a7e60839b3706a03ee5cbe5b8625a22358
 
 </div>
 
