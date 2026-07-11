@@ -2,6 +2,7 @@ import React from "react"
 import IngredientsList from "./IngredientsList"
 import ClaudeRecipe from "./ClaudeRecipe"
 import { getRecipeFromChefClaude } from "../ai"
+import Generate from "/Users/wafflez/Chef Claude/frontend/pages/Generate.jsx"
 
 export default function Main() {
     const [ingredients, setIngredients] = React.useState([])
@@ -26,15 +27,10 @@ export default function Main() {
 
     return (
         <main>
-            <form action={addIngredient} className="add-ingredient-form">
-                <input
-                    type="text"
-                    placeholder="e.g. oregano"
-                    aria-label="Add ingredient"
-                    name="ingredient"
-                />
-                <button>Add ingredient</button>
-            </form>
+            <Generate
+            action={addIngredient}
+            />
+           
 
             {ingredients.length > 0 &&
                 <IngredientsList
